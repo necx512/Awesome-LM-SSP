@@ -1,5 +1,6 @@
 # C5. Privacy-Preserving Computation
 - [2025/12] **[PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration](https://arxiv.org/abs/2512.08809)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/10] **[Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models](https://arxiv.org/abs/2510.12343)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Donghwan-Rho/HE-TSP) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CKKS](https://img.shields.io/badge/CKKS-87b800)
 - [2025/10] **[Verifiable Fine-Tuning for LLMs: Zero-Knowledge Training Proofs Bound to Data Provenance and Policy](https://arxiv.org/abs/2510.16830)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[Differentially Private Synthetic Text Generation for Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2510.06719)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/09] **[Confidential LLM Inference: Performance and Cost Across CPU and GPU TEEs](https://arxiv.org/abs/2509.18886)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
