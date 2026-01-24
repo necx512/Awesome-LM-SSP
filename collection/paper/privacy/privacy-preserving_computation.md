@@ -1,4 +1,5 @@
 # C5. Privacy-Preserving Computation
+- [2026/01] **[Privacy Enhanced PEFT: Tensor Train Decomposition Improves Privacy Utility Tradeoffs under DP-SGD](https://arxiv.org/abs/2601.10045)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[PrivTune: Efficient and Privacy-Preserving Fine-Tuning of Large Language Models via Device-Cloud Collaboration](https://arxiv.org/abs/2512.08809)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/10] **[On the Sample Complexity of Differentially Private Policy Optimization](https://arxiv.org/abs/2510.21060)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NeurIPS'25](https://img.shields.io/badge/NeurIPS'25-f1b800)
 - [2025/10] **[Traveling Salesman-Based Token Ordering Improves Stability in Homomorphically Encrypted Language Models](https://arxiv.org/abs/2510.12343)** [<img src="https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/github.svg" alt="Code" width="15" height="15">](https://github.com/Donghwan-Rho/HE-TSP) ![LLM](https://img.shields.io/badge/LLM-589cf4) ![CKKS](https://img.shields.io/badge/CKKS-87b800)

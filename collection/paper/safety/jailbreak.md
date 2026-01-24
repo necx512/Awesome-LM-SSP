@@ -1,4 +1,6 @@
 # A1. Jailbreak
+- [2026/01] **[TrojanPraise: Jailbreak LLMs via Benign Fine-Tuning](https://arxiv.org/abs/2601.12460)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2025/12] **[Rethinking Jailbreak Detection of Large Vision Language Models with Representational Contrastive Scoring](https://arxiv.org/abs/2512.12069)** ![VLM](https://img.shields.io/badge/VLM-c7688b)
 - [2025/12] **[Efficient Jailbreak Mitigation Using Semantic Linear Classification in a Multi-Staged Pipeline](https://arxiv.org/abs/2512.19011)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![Defense](https://img.shields.io/badge/Defense-87b800)
 - [2025/12] **[Metaphor-based Jailbreaking Attacks on Text-to-Image Models](https://arxiv.org/abs/2512.10766)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4)
 - [2025/12] **[Immunity memory-based jailbreak detection: multi-agent adaptive guard for large language models](https://arxiv.org/abs/2512.03356)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

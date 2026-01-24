@@ -1,4 +1,7 @@
 # C3. Membership Inference Attacks
+- [2026/01] **[VidLeaks: Membership Inference Attacks Against Text-to-Video Models](https://arxiv.org/abs/2601.11210)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![Video](https://img.shields.io/badge/Video-87b800)
+- [2026/01] **[Powerful Training-Free Membership Inference Against Autoregressive Language Models](https://arxiv.org/abs/2601.12104)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/01] **[When Reasoning Leaks Membership: Membership Inference Attack on Black-box Large Reasoning Models](https://arxiv.org/abs/2601.13607)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Watermarks for Embeddings-as-a-Service Large Language Models](https://arxiv.org/abs/2512.03079)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Ensemble Privacy Defense for Knowledge-Intensive LLMs against Membership Inference Attacks](https://arxiv.org/abs/2512.03100)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Lost in Modality: Evaluating the Effectiveness of Text-Based Membership Inference Attacks on Large Multimodal Models](https://arxiv.org/abs/2512.03121)** ![VLM](https://img.shields.io/badge/VLM-c7688b)

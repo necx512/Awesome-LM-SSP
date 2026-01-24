@@ -1,4 +1,7 @@
 # A7. Prompt Injection
+- [2026/01] **[ReasAlign: Reasoning Enhanced Safety Alignment against Prompt Injection Attack](https://arxiv.org/abs/2601.10173)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/01] **[Hidden-in-Plain-Text: A Benchmark for Social-Web Indirect Prompt Injection in RAG](https://arxiv.org/abs/2601.10923)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![WWW'26](https://img.shields.io/badge/WWW'26-f1b800)
+- [2026/01] **[PINA: Prompt Injection Attack against Navigation Agents](https://arxiv.org/abs/2601.13612)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICASSP‘26](https://img.shields.io/badge/ICASSP‘26-f1b800)
 - [2025/12] **[Beyond the Benchmark: Innovative Defenses Against Prompt Injection Attacks](https://arxiv.org/abs/2512.16307)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Attention is All You Need to Defend Against Indirect Prompt Injection Attacks in LLMs](https://arxiv.org/abs/2512.08417)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'26](https://img.shields.io/badge/NDSS'26-f1b800)
 - [2025/12] **[ObliInjection: Order-Oblivious Prompt Injection Attack to LLM Agents with Multi-source Data](https://arxiv.org/abs/2512.09321)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![NDSS'26](https://img.shields.io/badge/NDSS'26-f1b800)
