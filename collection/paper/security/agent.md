@@ -1,4 +1,6 @@
 # B2. Agent
+- [2026/02] **[SkillJect: Automating Stealthy Skill-Based Prompt Injection for Coding Agents with Trace-Driven Closed-Loop Refinement](https://arxiv.org/abs/2602.14211)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
+- [2026/02] **[MCPShield: A Security Cognition Layer for Adaptive Trust Calibration in Model Context Protocol Agents](https://arxiv.org/abs/2602.14281)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[Beyond Max Tokens: Stealthy Resource Amplification via Tool Calling Chains in LLM Agents](https://arxiv.org/abs/2601.10955)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2026/01] **[AgenTRIM: Tool Risk Mitigation for Agentic AI](https://arxiv.org/abs/2601.12449)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
 - [2025/12] **[Explainable and Fine-Grained Safeguarding of LLM Multi-Agent Systems via Bi-Level Graph Anomaly Detection](https://arxiv.org/abs/2512.18733)** ![LLM](https://img.shields.io/badge/LLM-589cf4)

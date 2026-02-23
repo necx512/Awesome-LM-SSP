@@ -1,4 +1,5 @@
 # C9. Watermark & Copyright
+- [2026/02] **[MarkSweep: A No-box Removal Attack on AI-Generated Image Watermarking via Noise Intensification and Frequency-aware Denoising](https://arxiv.org/abs/2602.15364)** ![Diffusion](https://img.shields.io/badge/Diffusion-a99cf4) ![ICASSP‘26](https://img.shields.io/badge/ICASSP‘26-f1b800)
 - [2026/01] **[KinGuard: Hierarchical Kinship-Aware Fingerprinting to Defend Against Large Language Model Stealing](https://arxiv.org/abs/2601.12986)** ![LLM](https://img.shields.io/badge/LLM-589cf4) ![ICASSP‘26](https://img.shields.io/badge/ICASSP‘26-f1b800)
 - [2025/12] **[Cryptanalysis of Pseudorandom Error-Correcting Codes](https://eprint.iacr.org/2025/2283)** ![LLM/Diffusion](https://img.shields.io/badge/LLM/Diffusion-ee82ee) ![Cryptanalysis](https://img.shields.io/badge/Cryptanalysis-87b800)
 - [2025/12] **[How Good is Post-Hoc Watermarking With Language Model Rephrasing?](https://arxiv.org/abs/2512.16904)** ![LLM](https://img.shields.io/badge/LLM-589cf4)
